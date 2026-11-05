@@ -14,7 +14,7 @@ These are learning experiences. I am building evidence of my capabilities, not c
 
 ## Availability
 
-Available full time during summer. I prefer remote opportunities and would consider South Jersey or Philadelphia.
+Available full time during summer.
 
 ## Research approach and contact
 

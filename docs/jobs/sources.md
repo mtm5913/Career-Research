@@ -9,8 +9,8 @@ Reviewed November 4, 2026. Notes preserve uncertainties; they are not applicatio
 [Original employer source](https://careers.deltek.com/job/23930597/ux-research-intern-onsite/)
 
 - **Status/date:** Description and recruitment route accessible; hiring unconfirmed. Posted September 29, 2026; deadline not stated.
-- **Location/travel:** Herndon/Tampa onsite header conflicts with remote ten-week summer description. Summer year/travel not stated.
-- **Required:** Relevant degree enrollment, two methods through coursework/projects, analysis, communication, organization, remote teamwork.
+- **Location/travel:** Herndon, VA / Tampa, FL. Work arrangement needs confirmation. Ten-week summer program; year/travel not stated.
+- **Required:** Relevant degree enrollment, two methods through coursework/projects, analysis, communication, organization, distributed teamwork.
 - **Preferred:** B2B experience, Figma/Miro/survey tools, AI research workflows, mapping, research samples.
 - **Three tasks:** Recruit/facilitate/document studies; synthesize evidence; maintain repository.
 - **Excerpt, What You’ll Do:** “Learn and apply AI-augmented research workflows”.

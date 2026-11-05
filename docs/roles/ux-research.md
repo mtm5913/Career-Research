@@ -18,6 +18,6 @@ My two Spotify interviews and thematic annotations demonstrate foundational inte
 
 ## Eligibility and location
 
-HCI degree enrollment is relevant. The posting's remote description conflicts with the onsite header, and its summer year is unstated. My graduation date and summer availability do not resolve those uncertainties.
+HCI degree enrollment is relevant. The listed locations are Herndon, Virginia, and Tampa, Florida. The work arrangement needs confirmation, and the summer year is unstated. My graduation date and summer availability do not resolve those uncertainties.
 
 [Full employer evidence](../jobs/sources#deltek) · [Supporting coursework](../work/spotify)

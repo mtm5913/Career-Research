@@ -64,8 +64,6 @@ These activities are separate projects. They support particular responsibilities
 | Provectus: understand workflows and check an AI solution | Olive: I chose intended behavior, requested interface revisions, and reviewed flows and selected checks with coaching. AI implemented and tested the code | Independently explain programming, retrieval, and deployment behavior |
 | Anthropic: translate user problems into features | Social-media diary study: the findings were group work; I created all eight design opportunities | Implement a proposal and test whether it addresses the observed problem |
 
-**Olive is unrelated to the Spotify interviews.** The Spotify findings did not inform Olive's design or features. The diary-study opportunities are proposals, rather than implemented or validated features.
-
 [Spotify interview work →](./work/spotify) · [Olive application work →](./work/olive) · [My diary-study opportunities →](./work/diary)
 
 ## 5. Planned next actions

@@ -56,7 +56,7 @@ The center of the work is turning user needs into working products across interf
 
 ## 4. Relevant activities and current gaps
 
-These activities are separate projects. They support particular responsibilities; they do not establish every qualification in the postings.
+These activities support particular responsibilities; they do not establish every qualification in the postings.
 
 | Employer responsibility | Existing activity and my contribution | Gap to develop |
 |---|---|---|
@@ -73,11 +73,9 @@ These dates are targets in **2026**, not claims of completed work.
 | Date | Planned action | Record to keep |
 |---|---|---|
 | Nov 8 | Define five Olive user tasks and their expected behavior | Task list, expected outcomes, and source boundaries |
-| Nov 10 | Draft a protocol for a new Olive usability study; separately map a Spotify or diary-study proposal to its original observation | Protocol and evidence-to-decision mapping |
+| Nov 10 | Draft an Olive usability protocol; map a coursework design proposal to its original research observation | Protocol and evidence-to-decision mapping |
 | Nov 12 | Trace a retrieval request and reproduce a missing-evidence check | Explanation, observed output, and limitations |
 | Nov 17 | Prepare the Plan review | Employer records, comparison, target reader, evidence map, and site outline |
-
-Any Olive usability study would collect new observations. It would not reuse the Spotify interviews as research for that application.
 
 [Full learning plan and future checks →](./roadmap)
 

@@ -5,11 +5,9 @@ The next step should be small enough to complete and specific enough to inspect.
 | Target date (2026) | Action | Evidence to keep | Why it matters |
 |---|---|---|---|
 | Nov 8 | Define five user tasks and expected behavior for Olive | Task list with expected outcomes and source boundaries | Makes product judgment and evaluation concrete |
-| Nov 10 | Draft an Olive usability protocol for a new study; separately trace a Spotify or diary-study proposal to its original research observation | Protocol and evidence-to-decision mapping | Develops a second method and research-informed design |
+| Nov 10 | Draft an Olive usability protocol; trace a coursework design proposal to its original research observation | Protocol and evidence-to-decision mapping | Develops a second method and research-informed design |
 | Nov 12 | Trace a retrieval request and reproduce a missing-evidence check | Explanation, actual output, and limits | Builds independent technical understanding |
 | Nov 17 | Prepare the Plan review | Employer records, comparison, reader, evidence map, site outline | Connects career research to portfolio choices |
-
-Olive, the Spotify interviews, and the social-media diary study are separate projects. Any future Olive usability study would collect new observations; the existing Spotify interviews are not research for Olive.
 
 ## My priority gap
 

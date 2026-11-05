@@ -35,8 +35,6 @@ Use more neutral follow-ups, document recruitment and consent, and recruit a bro
 
 ## Evidence boundaries
 
-This Spotify study is separate from Olive. Its findings were not used to build or revise that application.
-
 The original coursework guide uses the word “surveys,” but the supplied transcripts establish interviews. I do not count them as two separate collection methods. Participant names and raw transcripts are omitted from this public case study.
 
 [See how I translated a different study into opportunities →](./diary)

@@ -60,11 +60,9 @@ These activities support particular responsibilities; they do not establish ever
 
 | Employer responsibility | Existing activity and my contribution | Gap to develop |
 |---|---|---|
-| Deltek: conduct studies and synthesize findings | Spotify coursework: I conducted two semi-structured interviews and annotated responses for themes | Practice a second research method; strengthen recruitment, consent, and study documentation |
-| Provectus: understand workflows and check an AI solution | Olive: I chose intended behavior, requested interface revisions, and reviewed flows and selected checks with coaching. AI implemented and tested the code | Independently explain programming, retrieval, and deployment behavior |
-| Anthropic: translate user problems into features | Social-media diary study: the findings were group work; I created all eight design opportunities | Implement a proposal and test whether it addresses the observed problem |
-
-[Spotify interview work →](./work/spotify) · [Olive application work →](./work/olive) · [My diary-study opportunities →](./work/diary)
+| Deltek: conduct studies and synthesize findings | [Spotify coursework ↗](./work/spotify): I conducted two semi-structured interviews and annotated responses for themes | Practice a second research method; strengthen recruitment, consent, and study documentation |
+| Provectus: understand workflows and check an AI solution | [Olive ↗](./work/olive): I chose intended behavior, requested interface revisions, and reviewed flows and selected checks with coaching. AI implemented and tested the code | Independently explain programming, retrieval, and deployment behavior |
+| Anthropic: translate user problems into features | [Social-media diary study ↗](./work/diary): the findings were group work; I created all eight design opportunities | Implement a proposal and test whether it addresses the observed problem |
 
 ## 5. Planned next actions
 

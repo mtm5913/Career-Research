@@ -14,7 +14,7 @@ Understanding why people act as they do, discovering differences between users, 
 
 My two Spotify interviews and thematic annotations demonstrate foundational interviewing and synthesis. They do not establish experience with every research method. Deltek asks for two methods; the supplied artifacts do not establish a second data-collection method.
 
-**Next step:** Draft a usability protocol for Olive, conduct actual sessions, and connect an observed issue to a change and retest. This remains planned.
+**Next step:** Draft a usability protocol for a new study of Olive, a separate project unrelated to the Spotify interviews, conduct actual sessions, and connect an observed issue to a change and retest. This remains planned.
 
 ## Eligibility and location
 

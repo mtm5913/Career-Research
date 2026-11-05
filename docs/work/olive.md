@@ -6,6 +6,8 @@ A FastAPI learning application exploring source-grounded food questions and a fr
 
 [View the GitHub repository](https://github.com/mtm5913/my-app-studio) · [Read the learning record](https://github.com/mtm5913/my-app-studio/blob/main/LEARNING.md) · [Inspect RAG/streaming PR #8](https://github.com/mtm5913/my-app-studio/pull/8)
 
+Olive is a separate IS373 application project. It was not based on the Spotify interviews, and those interviews did not inform its features or interface decisions.
+
 ## Problem and direction
 
 I wanted Olive to feel like a helpful companion. During browser review, I requested that answers appear above the question composer, making room for follow-up questions below. I also chose behavior for missing information: explain the source gap rather than invent an answer.

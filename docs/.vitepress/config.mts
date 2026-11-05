@@ -5,7 +5,7 @@ export default defineConfig({
  head: [['meta', { name:'theme-color', content:'#f5f1e9' }]],
  themeConfig: {
   siteTitle: 'Career Research',
-  nav: [{text:'Compare roles',link:'/roles/'},{text:'Employer postings',link:'/jobs/'},{text:'Learning plan',link:'/roadmap'},{text:'Sources',link:'/jobs/sources'},{text:'About',link:'/about'}],
+  nav: [{text:'Overview',link:'/overview'},{text:'Compare roles',link:'/roles/'},{text:'Employer postings',link:'/jobs/'},{text:'Learning plan',link:'/roadmap'},{text:'Sources',link:'/jobs/sources'},{text:'About',link:'/about'}],
   socialLinks:[{icon:'github',link:'https://github.com/mtm5913'}],
   outline:[2,3], search:{provider:'local'},
   sidebar:{'/roles/':[{text:'Career directions',items:[{text:'Compare the work',link:'/roles/'},{text:'UX research',link:'/roles/ux-research'},{text:'Forward deployed engineering',link:'/roles/fde'},{text:'AI product engineering',link:'/roles/product-engineering'}]}],'/jobs/':[{text:'Employer evidence',items:[{text:'Explore the three postings',link:'/jobs/'},{text:'Source ledger & uncertainties',link:'/jobs/sources'}]}]},

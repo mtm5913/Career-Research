@@ -22,6 +22,4 @@ Repository name: `Career-Research`. In Settings → Pages select **GitHub Action
 
 ## Content and privacy
 
-Only public professional summaries belong in `docs/`. The full private career research record and participant transcripts are deliberately excluded. Supporting case studies disclose AI help, group attribution, and untested proposals. IS373 group-system contribution, public Olive demo, résumé, and LinkedIn are pending rather than invented. This is a career-research site, not the final checked portfolio.
-
-VitePress hosts this static portfolio, not the FastAPI application. Olive needs its own server.
+This is a career-research documentation site. The Overview links employer records, career comparisons, supporting activities, and learning priorities. The personal reflection and raw participant records remain outside the published source. Activity descriptions disclose individual contributions and AI assistance. Original source review: November 4, 2026; documentation revision: November 13, 2026.

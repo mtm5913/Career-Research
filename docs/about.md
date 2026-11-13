@@ -16,12 +16,10 @@ These are learning experiences. I am building evidence of my capabilities, not c
 
 Available full time during summer.
 
-## Research approach and contact
+## About this documentation
 
-[GitHub / mtm5913](https://github.com/mtm5913)
+This site records an independent comparison of three AI-related career directions. It uses original employer descriptions to distinguish daily responsibilities, entry expectations, relevant activities, and skill gaps. UX research is my provisional direction.
 
-I’m interested in conversations about UX research internships, human-centered AI, and research-informed design.
+The [source ledger](./jobs/sources) records the employer review date and unresolved details. The [Overview](./overview) is the starting point for the complete documentation.
 
-## Professional links
-
-A reviewed résumé, contact email, and LinkedIn profile can be added to the eventual portfolio. This site focuses on comparing roles and employer evidence. Supporting [coursework and application examples](./work) illustrate the experience I have identified so far.
+[GitHub / mtm5913](https://github.com/mtm5913) · [Supporting activities](./work)

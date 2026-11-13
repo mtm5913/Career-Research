@@ -40,6 +40,6 @@ These ideas translate observations into possible features. They were **not imple
 
 Prototype one intention prompt, compare it with a version without the prompt, and observe whether people can complete their intended task. I would record confusion and unwanted interruptions, not assume that a reminder is helpful.
 
-*Evidence basis: Group 6 Diary Study Analysis, supplied for portfolio preparation. Raw participant data and the shared class document are not published here.*
+*Evidence basis: Group 6 Diary Study Analysis, supplied for this career-research record. Raw participant data and the shared class document are not published here.*
 
 [Explore the interviews case study →](./spotify)

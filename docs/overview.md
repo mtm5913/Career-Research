@@ -4,13 +4,13 @@ outline: [2, 3]
 
 # Career research overview
 
-This page is the starting point for **1. Individual portfolio + career research**. It brings together the research question, selected employers, role comparison, my relevant experience, gaps, and planned actions. Follow the links for the full records and supporting work.
+This page brings together the selected employers, role comparison, relevant activities, skill gaps, and learning priorities. Follow the links for the full records and supporting work.
 
-## 1. Purpose and research question
+## 1. Research purpose
 
 I am an HCI bachelor's student expecting to graduate in **May 2028**, with full-time summer availability. My strongest interest is UX research, with an additional interest in design and how AI is used in practice.
 
-**Research question:** Where do understanding people, research, and AI meet in everyday work—and what should I develop to pursue that direction?
+The purpose is to compare how UX research, forward deployed engineering, and AI product engineering use AI, then identify a provisional career direction and practical development priorities.
 
 The research compares three original employer postings. It includes FDE as a reference, an internship, and an experienced product-engineering role. These are three examples to learn from, rather than a complete picture of the job market.
 
@@ -62,36 +62,37 @@ These activities support particular responsibilities; they do not establish ever
 |---|---|---|
 | Deltek: conduct studies and synthesize findings | [Spotify coursework ↗](./work/spotify)<br>I conducted two semi-structured interviews and annotated responses for themes | Practice a second research method; strengthen recruitment, consent, and study documentation |
 | Provectus: understand workflows and check an AI solution | [Olive ↗](./work/olive)<br>I chose intended behavior, requested interface revisions, and reviewed flows and selected checks with coaching. AI implemented and tested the code | Independently explain programming, retrieval, and deployment behavior |
-| Anthropic: translate user problems into features | [Social-media diary study ↗](./work/diary)<br>the findings were group work; I created all eight design opportunities | Implement a proposal and test whether it addresses the observed problem |
+| Anthropic: translate user problems into features | [Social-media diary study ↗](./work/diary)<br>The findings were group work; I created all eight design opportunities | Implement a proposal and test whether it addresses the observed problem |
 
 ## 5. Planned next actions
 
-These dates are targets in **2026**, not claims of completed work.
+These are the original **2026** target dates. Outcomes for these actions have not been recorded; elapsed dates do not indicate completion.
 
 | Date | Planned action | Record to keep |
 |---|---|---|
 | Nov 8 | Define five Olive user tasks and their expected behavior | Task list, expected outcomes, and source boundaries |
 | Nov 10 | Draft an Olive usability protocol; map a coursework design proposal to its original research observation | Protocol and evidence-to-decision mapping |
 | Nov 12 | Trace a retrieval request and reproduce a missing-evidence check | Explanation, observed output, and limitations |
-| Nov 17 | Prepare the Plan review | Employer records, comparison, target reader, evidence map, and site outline |
+| Nov 17 | Prepare the Plan review | Employer records, comparison, activity mapping, and learning priorities |
 
-[Full learning plan and future checks →](./roadmap)
+[Full learning plan →](./roadmap)
 
-## 6. How the research informs the eventual portfolio
+## 6. Navigate the research
 
-**Target reader:** A reviewer hiring an undergraduate UX research intern working with AI-enabled products or tools.
-
-**What they should understand:** My research direction, the work I have actually done, my individual contribution, and the skills I am still developing.
-
-This site uses a research-first layout: compare the work, inspect employer evidence, then examine supporting activities and next steps. The eventual professional portfolio will need a working individual RAG project route and a group-system case study identifying my own contribution. Those technical deliverables remain distinct from this career-research record.
-
-[Portfolio evidence map and layout decision →](./roadmap#how-this-informs-the-eventual-portfolio) · [Supporting work →](./work)
+| Page | What it contains |
+|---|---|
+| [Compare roles →](./roles/) | Responsibilities, outputs, entry expectations, overlap, and provisional direction |
+| [Employer postings →](./jobs/) | Three selected roles, with a career-level filter and original posting links |
+| [Source ledger →](./jobs/sources) | Review date, eligibility, required and preferred qualifications, three responsibilities, excerpts, gaps, and next actions |
+| [Supporting activities →](./work) | Spotify interviews, Olive development/review, and diary-study design opportunities |
+| [Learning plan →](./roadmap) | Development priorities and dated planned actions |
+| [About →](./about) | HCI background and the purpose of this research documentation |
 
 ## 7. Sources, limits, and completion status
 
 - Employer notes separate required and preferred qualifications, responsibilities, eligibility, and unresolved details. Recheck the original postings before applying.
 - The full personal reflection and raw participant records are excluded from the public site.
 - Supporting work discloses AI assistance, group contributions, and untested proposals.
-- A public Olive demo, the group-system contribution record, and actual peer review remain pending. This is the career-research site, rather than the final checked professional portfolio.
+- Posting details are recorded as of the stated review date. Later hiring status and completion of planned learning actions have not been established.
 
-[Source ledger and research method →](./jobs/sources) · [Planned checks →](./roadmap#future-checks)
+[Source ledger and research method →](./jobs/sources) · [Learning priorities →](./roadmap#my-priority-gap)

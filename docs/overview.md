@@ -4,6 +4,8 @@ outline: [2, 3]
 
 # Career research overview
 
+[1. Individual portfolio + career research — plan and review record →](./plan)
+
 This page brings together the selected employers, role comparison, relevant activities, skill gaps, and learning priorities. Follow the links for the full records and supporting work.
 
 ## 1. Research purpose
@@ -81,6 +83,7 @@ These are the original **2026** target dates. Outcomes for these actions have no
 
 | Page | What it contains |
 |---|---|
+| [Plan and review record →](./plan) | Target reader, proposed portfolio outline, two layout alternatives, selection, and changed / checked / next |
 | [Compare roles →](./roles/) | Responsibilities, outputs, entry expectations, overlap, and provisional direction |
 | [Employer postings →](./jobs/) | Three selected roles, with a career-level filter and original posting links |
 | [Source ledger →](./jobs/sources) | Review date, eligibility, required and preferred qualifications, three responsibilities, excerpts, gaps, and next actions |

@@ -5,10 +5,10 @@ export default defineConfig({
  head: [['meta', { name:'theme-color', content:'#f5f1e9' }]],
  themeConfig: {
   siteTitle: 'Career Research',
-  nav: [{text:'Overview',link:'/overview'},{text:'Compare roles',link:'/roles/'},{text:'Employer postings',link:'/jobs/'},{text:'Learning plan',link:'/roadmap'},{text:'Sources',link:'/jobs/sources'},{text:'More',items:[{text:'Supporting activities',link:'/work'},{text:'About',link:'/about'}]}],
+  nav: [{text:'Overview',link:'/overview'},{text:'Compare roles',link:'/roles/'},{text:'Employer postings',link:'/jobs/'},{text:'Learning plan',link:'/roadmap'},{text:'Sources',link:'/jobs/sources'},{text:'More',items:[{text:'Plan & review',link:'/plan'},{text:'Supporting activities',link:'/work'},{text:'About',link:'/about'}]}],
   socialLinks:[{icon:'github',link:'https://github.com/mtm5913'}],
   outline:[2,3], search:{provider:'local'},
   sidebar:{'/roles/':[{text:'Career directions',items:[{text:'Compare the work',link:'/roles/'},{text:'UX research',link:'/roles/ux-research'},{text:'Forward deployed engineering',link:'/roles/fde'},{text:'AI product engineering',link:'/roles/product-engineering'}]}],'/jobs/':[{text:'Employer evidence',items:[{text:'Explore the three postings',link:'/jobs/'},{text:'Source ledger & uncertainties',link:'/jobs/sources'}]}]},
-  footer:{message:'Three employer examples. A provisional direction. Evidence before assumptions.',copyright:'Megan McNeal · Source review: November 4, 2026 · Documentation updated November 13, 2026'}
+  footer:{message:'Three employer examples. A provisional direction. Evidence before assumptions.',copyright:'Megan McNeal · Source review: November 4, 2026 · Documentation updated November 15, 2026'}
  }
 })

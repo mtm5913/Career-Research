@@ -29,6 +29,14 @@ The contrast matters: one interruption or pricing message may not fit both liste
 
 My transcript includes inline annotations and a theme summary. Our group discussed alternative freemium choices, referral trials, and feedback on generated playlists. Those were proposals; no resulting design was implemented or retested in these records.
 
+## Planned excerpt-to-finding trace
+
+Reviewer feedback received November 17, 2026 recommended showing one anonymized interview excerpt, its annotation, a resulting finding, and what that finding could mean for the product team.
+
+**Status: Planned.** The published summaries above do not supply a verified verbatim excerpt or its original annotation. The next documentation step is to check both against the source transcript, remove identifying details, and show the trace without implying that a proposed product change was implemented or tested.
+
+[How this activity maps to Deltek's two-method requirement →](../jobs/sources#deltek-exact-two-method-requirement)
+
 ## What I would improve
 
 Use more neutral follow-ups, document recruitment and consent, and recruit a broader sample before making product recommendations. A future usability study would add evidence about observed behavior, rather than treating interview responses as proof of feature effectiveness.

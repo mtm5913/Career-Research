@@ -49,28 +49,40 @@ Both alternatives use the same introduction, individual RAG and group-system cas
 
 **Selected: A — Research-first.** UX research is my preferred direction, and the target reader needs to assess how I move from observations to decisions. A prominent app/code link near the top of each relevant case study can still provide quick access. These are written layout alternatives, not built or peer-tested wireframes.
 
-## Peer feedback
+## Reviewer feedback and response
 
-**Status: Not conducted.** No peer observations, feedback decision, or peer-driven change are claimed. This item was deferred on November 15, 2026.
+**Received:** November 17, 2026, supplied by Megan in chat. Reviewer name, role, and original review date were not supplied. This is recorded as reviewer feedback; it is not presented as a completed peer task test.
 
-A future review should ask whether the target reader and featured activities follow from the employer sources. Record the review date, peer initials, actual observation, my decision and reason, the resulting documentation change, and any retest. AI review does not substitute for this feedback.
+| Actual feedback | Documentation response / decision | Status |
+|---|---|---|
+| A UX research hiring reviewer fits the Deltek summary. | Retain that target reader and its link to Deltek's research responsibilities. | Retained |
+| Spotify interviews and thematic annotations support interviewing and qualitative synthesis. | Keep Spotify as the featured research activity for Deltek. | Retained |
+| Feature an anonymized excerpt → annotation → finding → product-team implication. | Add this explicit next step to the Spotify record. A verbatim excerpt must be checked against the original transcript before publishing. | Planned; no excerpt invented |
+| Keep the Olive usability study planned until observations, a design change, and a retest exist. | Keep it labeled planned; do not count it as completed second-method evidence. | Clarified |
+| Link Deltek's exact two-method wording. | Add the original wording, Required Qualifications link, and explanation of the current evidence gap to the source ledger. | Added and source-checked |
+
+[Inspect Deltek's exact requirement and the evidence mapping →](./jobs/sources#deltek-exact-two-method-requirement) · [Spotify trace next step →](./work/spotify#planned-excerpt-to-finding-trace)
+
+**Review outcome:** The reader and featured activity are supported by the feedback. The documentation now makes the second-method requirement inspectable. The excerpt trace and a later usability study remain next actions; no participant observations, design changes, or retest outcomes are claimed.
 
 ## Changed / checked / next
 
-### Changed — November 15, 2026
+### Changed — November 17, 2026
 
-- Added this review record under the requested deliverable heading.
+- Recorded the supplied reviewer feedback and the response to each point.
+- Linked Deltek's exact two-method requirement and clarified why two interviews do not establish two methods.
+- Added the requested interview-to-finding trace as an explicitly planned addition.
 - Published the target reader, intended action, responsibility-to-evidence mapping, proposed portfolio outline, and two written layout alternatives with a selection.
 - Added links from the Overview and main navigation so these decisions are reachable in the research review path.
 
 ### Checked
 
-The source-to-activity mapping uses the saved employer notes reviewed November 4, 2026 and the existing supporting activity records. No new employer availability check or peer review is implied. Build and link validation for this documentation change are recorded in the repository's release checks.
+The source-to-activity mapping uses the saved employer notes reviewed November 4, 2026 and the existing supporting activity records. Deltek's exact two-method wording was rechecked November 17, 2026. No new hiring-status confirmation or completed peer task test is implied. Build and link validation for this documentation change are recorded in the repository's release checks.
 
 ### Next
 
-- Obtain actual peer feedback on whether the reader and featured activities follow from the employer sources.
-- Record my decision and any resulting documentation change; retest if a change affects the review path.
+- Check an anonymized interview excerpt and its original annotation against the source transcript, then publish one finding and a bounded product-team implication.
+- Gather actual usability observations, a design change, and a retest before treating the planned Olive study as completed evidence.
 - Update planned learning actions when actual outcomes are available.
 
 [Return to the full research Overview →](./overview)

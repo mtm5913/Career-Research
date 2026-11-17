@@ -13,9 +13,17 @@ Reviewed November 4, 2026. Notes preserve uncertainties; they are not applicatio
 - **Required:** Relevant degree enrollment, two methods through coursework/projects, analysis, communication, organization, distributed teamwork.
 - **Preferred:** B2B experience, Figma/Miro/survey tools, AI research workflows, mapping, research samples.
 - **Three tasks:** Recruit/facilitate/document studies; synthesize evidence; maintain repository.
-- **Excerpt, What You’ll Do:** “Learn and apply AI-augmented research workflows”.
+- **AI responsibility, What You’ll Do:** Learn AI-supported research workflows for synthesis, metadata, and discovery.
 - **Eligibility:** HCI enrollment fits one criterion; no master's restriction or graduation window. Sponsorship unstated.
 - **Activity/gap/action:** Spotify interviews and annotation; second method missing; draft a usability protocol by Nov 10.
+
+### Deltek: exact two-method requirement
+
+> Coursework or project experience in at least two UX research methods (e.g., interviews, usability testing, surveys, contextual inquiry).
+
+[Deltek — Required Qualifications](https://careers.deltek.com/job/23930597/ux-research-intern-onsite/#:~:text=Coursework%20or%20project%20experience%20in%20at%20least%20two%20UX%20research%20methods) · Wording rechecked November 17, 2026. If the highlighted link is unsupported, find **Required Qualifications** on the posting.
+
+The [Spotify activity](../work/spotify) demonstrates interviews and qualitative synthesis. Two interviews are two sessions using one collection method; annotations do not establish a second collection method. An Olive usability study remains planned and will only add completed-study evidence after actual observations, a design change, and a retest are recorded.
 
 ## Provectus
 

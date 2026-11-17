@@ -9,6 +9,6 @@ export default defineConfig({
   socialLinks:[{icon:'github',link:'https://github.com/mtm5913'}],
   outline:[2,3], search:{provider:'local'},
   sidebar:{'/roles/':[{text:'Career directions',items:[{text:'Compare the work',link:'/roles/'},{text:'UX research',link:'/roles/ux-research'},{text:'Forward deployed engineering',link:'/roles/fde'},{text:'AI product engineering',link:'/roles/product-engineering'}]}],'/jobs/':[{text:'Employer evidence',items:[{text:'Explore the three postings',link:'/jobs/'},{text:'Source ledger & uncertainties',link:'/jobs/sources'}]}]},
-  footer:{message:'Three employer examples. A provisional direction. Evidence before assumptions.',copyright:'Megan McNeal · Source review: November 4, 2026 · Documentation updated November 15, 2026'}
+  footer:{message:'Three employer examples. A provisional direction. Evidence before assumptions.',copyright:'Megan McNeal · Source review: November 4, 2026 · Documentation updated November 17, 2026'}
  }
 })

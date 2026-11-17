@@ -57,13 +57,13 @@ Both alternatives use the same introduction, individual RAG and group-system cas
 |---|---|---|
 | A UX research hiring reviewer fits the Deltek summary. | Retain that target reader and its link to Deltek's research responsibilities. | Retained |
 | Spotify interviews and thematic annotations support interviewing and qualitative synthesis. | Keep Spotify as the featured research activity for Deltek. | Retained |
-| Feature an anonymized excerpt → annotation → finding → product-team implication. | Add this explicit next step to the Spotify record. A verbatim excerpt must be checked against the original transcript before publishing. | Planned; no excerpt invented |
+| Feature an anonymized excerpt → annotation → finding → product-team implication. | Verified the excerpt, original annotation, and theme against the supplied transcript; published a bounded finding and clearly proposed product implication. | Completed |
 | Keep the Olive usability study planned until observations, a design change, and a retest exist. | Keep it labeled planned; do not count it as completed second-method evidence. | Clarified |
 | Link Deltek's exact two-method wording. | Add the original wording, Required Qualifications link, and explanation of the current evidence gap to the source ledger. | Added and source-checked |
 
-[Inspect Deltek's exact requirement and the evidence mapping →](./jobs/sources#deltek-exact-two-method-requirement) · [Spotify trace next step →](./work/spotify#planned-excerpt-to-finding-trace)
+[Inspect Deltek's exact requirement and the evidence mapping →](./jobs/sources#deltek-exact-two-method-requirement) · [Verified Spotify evidence trace →](./work/spotify#interview-excerpt-to-product-implication)
 
-**Review outcome:** The reader and featured activity are supported by the feedback. The documentation now makes the second-method requirement inspectable. The excerpt trace and a later usability study remain next actions; no participant observations, design changes, or retest outcomes are claimed.
+**Review outcome:** The reader and featured activity are supported by the feedback. The documentation now makes the second-method requirement inspectable. The Spotify trace is now published from the existing interview evidence. The Olive usability study remains planned; no new participant sessions, implemented design change, or retest outcome is claimed.
 
 ## Changed / checked / next
 
@@ -71,7 +71,7 @@ Both alternatives use the same introduction, individual RAG and group-system cas
 
 - Recorded the supplied reviewer feedback and the response to each point.
 - Linked Deltek's exact two-method requirement and clarified why two interviews do not establish two methods.
-- Added the requested interview-to-finding trace as an explicitly planned addition.
+- Verified and published the existing Spotify interview excerpt, original annotation, theme, bounded finding, and proposed product-team decision.
 - Published the target reader, intended action, responsibility-to-evidence mapping, proposed portfolio outline, and two written layout alternatives with a selection.
 - Added links from the Overview and main navigation so these decisions are reachable in the research review path.
 
@@ -81,7 +81,7 @@ The source-to-activity mapping uses the saved employer notes reviewed November 4
 
 ### Next
 
-- Check an anonymized interview excerpt and its original annotation against the source transcript, then publish one finding and a bounded product-team implication.
+- Test the proposed product implication only after collecting actual usability observations; do not treat the interview trace as proof of a successful feature.
 - Gather actual usability observations, a design change, and a retest before treating the planned Olive study as completed evidence.
 - Update planned learning actions when actual outcomes are available.
 

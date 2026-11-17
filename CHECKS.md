@@ -25,3 +25,10 @@ These are build and AI-assisted browser checks, not peer research or participant
 - Production build passed; 358 internal file/asset references resolved.
 - Reviewer feedback recorded with unknown identity/date made explicit; no peer task test claimed.
 - Excerpt trace and Olive usability study remain planned.
+
+## Spotify evidence trace — November 17, 2026
+
+- Reopened the supplied Google Docs transcript via browser export; verified the short P1 quote, original inline annotation, and original theme against the exported source. Raw export remains outside the repository.
+- Published only the anonymized excerpt with no participant names/demographics. Product implication and proposed validation are explicitly new/planned interpretation.
+- Production build passed; 358 internal file/asset references resolved.
+- Updated the review record to distinguish completed trace from planned usability work.

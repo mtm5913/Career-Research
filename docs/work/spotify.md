@@ -29,13 +29,26 @@ The contrast matters: one interruption or pricing message may not fit both liste
 
 My transcript includes inline annotations and a theme summary. Our group discussed alternative freemium choices, referral trials, and feedback on generated playlists. Those were proposals; no resulting design was implemented or retested in these records.
 
-## Planned excerpt-to-finding trace
+## Interview excerpt to product implication
 
-Reviewer feedback received November 17, 2026 recommended showing one anonymized interview excerpt, its annotation, a resulting finding, and what that finding could mean for the product team.
+**Source verified November 17, 2026:** *Spotify Free vs. Premium Analysis*, Interview 1, upgrade-decision exchange and the concluding Themes section. This is an excerpt from my existing coursework, not a new interview. The participant is labeled **P1 (Free listener)**; names, demographic details, and the raw transcript are not published here.
 
-**Status: Planned.** The published summaries above do not supply a verified verbatim excerpt or its original annotation. The next documentation step is to check both against the source transcript, remove identifying details, and show the trace without implying that a proposed product change was implemented or tested.
+| Step | Evidence and interpretation |
+|---|---|
+| Interview context | After P1 said they had considered paying for Premium, I asked what stopped them. |
+| Anonymized verbatim excerpt | **P1:** “It was the price.” |
+| My original inline annotation | **“Price concern”** — the label attached to that response in the transcript. |
+| Original theme | **“Price is a main reason for not upgrading.”** — recorded in my concluding theme summary. |
+| Bounded finding | For this participant, price was the stated barrier to upgrading despite having considered it. This is self-reported reasoning from one interview, not a measured purchasing decision or a finding about all Free listeners. |
+| Possible product-team decision | Explore a clearer comparison of plan cost and benefits, then test whether it helps price-concerned listeners assess value. This is a proposed response added to explain the implication of the finding, not an original participant request, implemented feature, or tested conversion improvement. |
 
-[How this activity maps to Deltek's two-method requirement →](../jobs/sources#deltek-exact-two-method-requirement)
+**How I would check the proposal:** In a future usability study, ask participants to compare the current and proposed plan information, explain the price and benefits in their own words, and describe any remaining uncertainty. Record actual comprehension and confusion before deciding whether to retain a change. This check is planned, not executed.
+
+### Connection to Deltek
+
+This trace shows an interview response being documented, annotated, synthesized, and communicated as a bounded insight a product team could investigate. That maps to Deltek's study-documentation and synthesis responsibilities. It demonstrates interviewing and qualitative analysis; it does not establish a second collection method.
+
+[Deltek's exact two-method requirement and current gap →](../jobs/sources#deltek-exact-two-method-requirement)
 
 ## What I would improve
 

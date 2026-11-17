@@ -7,3 +7,16 @@
 @media(max-width:760px){.role-grid{grid-template-columns:1fr}.role-card h3{min-height:0}.reading-grid{grid-template-columns:1fr;gap:28px}.research-question h2,.reading-grid h2{font-size:29px}.role-card{padding:25px}.job-card{padding:20px}}
 .dark .hero h1 em{color:#b5caa3}
 @media(max-width:760px){.research-home .research-board{height:350px}.research-home .note{top:185px;width:130px;padding:13px 15px}.research-home .note p{font-size:16px;margin-top:8px}.research-home .board-bottom{font-size:6px;letter-spacing:1px}.research-home .board-question{font-size:27px}.research-home .hero-actions{align-items:stretch}.research-home .hero-actions a{font-size:11px;line-height:1.6;flex:1}.research-home .hero-actions .text-link{align-self:center}}
+
+/* Peer feedback, 2026-11-16: readable headlines and process text. */
+.research-home .hero{grid-template-columns:minmax(0,1.4fr) minmax(0,1fr)}
+.research-home .hero h1{letter-spacing:normal;word-spacing:.04em;line-height:1.25}
+.research-home .hero h1 em{letter-spacing:normal}
+.research-home .research-board{display:flex;flex-direction:column;height:auto;min-height:360px}
+.research-home .board-question{margin-top:28px}
+.research-home .note{position:relative;top:auto;right:auto;align-self:flex-end;margin:16px 0 24px}
+.research-home .board-bottom{position:relative;inset:auto;display:block;margin-top:auto;font-size:14px;line-height:1.7;letter-spacing:.02em;overflow-wrap:break-word}
+@media(max-width:760px){
+ .research-home .hero{grid-template-columns:minmax(0,1fr)}
+ .research-home .hero h1{font-size:clamp(32px,8vw,40px)}
+}

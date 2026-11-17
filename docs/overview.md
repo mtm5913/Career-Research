@@ -99,3 +99,18 @@ These are the original **2026** target dates. Outcomes for these actions have no
 - Posting details are recorded as of the stated review date. Later hiring status and completion of planned learning actions have not been established.
 
 [Source ledger and research method →](./jobs/sources) · [Learning priorities →](./roadmap#my-priority-gap)
+
+
+## Peer feedback: homepage readability — November 16, 2026
+
+[GitHub issue #1](https://github.com/mtm5913/Career-Research/issues/1) records feedback received from a peer and posted by the project owner because the peer could not post directly. The peer reported crowded homepage headline letters/words and process text too small to read: “read → compare → question → choose a next step”. The peer was not identified by name in the supplied feedback.
+
+**Decision and changed documentation:** Accept the feedback. Remove negative tracking from the homepage headline and its italic text, add a little word spacing, and use 1.25 line spacing. Increase the process text from 8px desktop / 6px mobile to 14px at both sizes with 1.7 line spacing. Let the card grow and its content flow vertically so wrapped text does not overlap the note. Preserve the wording and site colors. This section records the feedback, decision, change, checks and next step in the existing research record.
+
+**Actual checks:** AI-assisted review of local production builds at 1440 × 1000 and 390 × 844. Both headlines use normal letter spacing; process text computes to 14px. No document-level horizontal overflow was observed (1425px content at a 1440px viewport; 375px at a 390px viewport). The process text wraps on mobile and stays inside its card, below the note. Both headlines and process cards were also visually inspected in Chrome at actual 200% page zoom; content reflowed and the reviewed text remained visible without overlap. Chrome zoom was reset afterward. Production build and internal-link checks passed before adding this review section (353 internal references); final release checks are attached to the issue.
+
+[View the updated desktop homepage screenshot](/peer-review/homepage-desktop.png).
+
+**Help and limits:** AI made the CSS changes, drafted this record and performed the browser/build checks at Megan’s request. The peer supplied the original feedback; these follow-up checks are not a peer retest or a comprehensive accessibility audit. No new employer-source review or RAG answer-quality test is claimed by this visual change.
+
+**Next:** Ask the peer to inspect the updated live page and record their actual response when available. Deployment and issue resolution evidence belongs in the linked GitHub issue; do not treat planned peer confirmation as completed.
